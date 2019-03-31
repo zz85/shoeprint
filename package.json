@@ -1,9 +1,9 @@
 {
-  "name": "shoeroute",
+  "name": "shoetrace",
   "version": "1.0.0",
   "description": "simple fast traceroute whois utility",
-  "main": "bin/shoeroute",
-  "bin": "bin/shoeroute",
+  "main": "bin/shoetrace",
+  "bin": "bin/shoetrace",
   "repository": {
     "url": "git+https://github.com/zz85/shoeprint",
     "type": "git"
