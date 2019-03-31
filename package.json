@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/zz85/shoeprint#readme",
   "dependencies": {
-    "raw-socket": "^1.6.4"
+    "raw-socket": "^1.6.4",
+    "whois": "^2.9.1"
   }
 }
