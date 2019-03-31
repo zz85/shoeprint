@@ -1,0 +1,26 @@
+{
+  "name": "shoeprint",
+  "version": "1.0.0",
+  "description": "simple fast traceroute whois utility",
+  "main": "bin/shoeprint",
+  "repository": {
+    "url": "git+https://github.com/zz85/shoeprint",
+    "type": "git"
+  },
+  "keywords": [
+    "traceroute",
+    "ping",
+    "icmp",
+    "mtr",
+    "whois"
+  ],
+  "author": "Joshua Koo, Wenchao Ng",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/zz85/shoeprint/issues"
+  },
+  "homepage": "https://github.com/zz85/shoeprint#readme",
+  "dependencies": {
+    "raw-socket": "^1.6.4"
+  }
+}
