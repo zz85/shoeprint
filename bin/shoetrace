@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+const probe = require('../lib/probe')
+
+var target = process.argv[2];
+probe(target);
